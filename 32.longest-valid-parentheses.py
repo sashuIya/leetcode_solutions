@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/longest-valid-parentheses
 
-# 2022:
+# 2023:
 class Solution:
     def longestValidParentheses(self, s: str) -> int:
         if not s: return 0
